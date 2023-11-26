@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+// header{
+//     background-color: black;
+//     nav{
+    
+//         width: 85%;
+//         height: auto;
+//         margin: auto;
+        
+//         }
+//        .collapseDiv{
+
+        
+//         width: 75%;
+//         float: right;
+//         // margin-left: 200px!important;
+//         justify-content: end;
+
+
+//         }
+//     }
+
+
+
+// header{
+//     background-color:white;
+//     nav{
+//         width: 100%;
+//         height: auto;
+//         margin: auto;
+//     }
+//     .collapseDiv{
+        
+//         justify-content: end;
+//     }
+// }
+
+// header {
+
+//     .container {
+
+//         nav {
+//             .collapse {
+                
+//                 .navbar-nav {
+//                     gap: 20px;
+//                     font-weight: 500;
+//                     .nav-item {
+
+//                         .nav-link {
+//                             color: #AEB0B2;
+    
+
+
+// header{
+//     .container{
+//         .menimDivim{
+//             display: flex;
+//             justify-content: space-between;
+//             align-items: center;
+//             width: 100%;
+            
+//             .submit {
+//                 .form-inline {
+//                     gap: 10px;
+//                 }
+
+
+
+//             .collapse{
+//                 .navbar-nav{
+//                     gap: 20px;
+//                     font-weight: 500;
+//                     .nav-item{
+                       
+//                     }
+//                 }
+//             }
+//         }
+//     }
+// }
+// }
+
+
+
+header{
+    width: 100%;
+    }
+    .navbar{
+        width: 80%;
+        margin: auto;
+        ul{
+            gap: 20px;
+        }
+        
+    }
+    .collapse{
+        display: flex;
+        justify-content: flex-end;
+        font-size: 20px;
+        font-weight: 400;
+    }
